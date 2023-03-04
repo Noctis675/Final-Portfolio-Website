@@ -16,6 +16,7 @@ const App = () => {
 <About/>
 <Skills/>
 <Services/>
+<Contact/>
 
 
 
